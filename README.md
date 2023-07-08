@@ -12,11 +12,11 @@ Some image converting functions written in python with use of PIL library
 
 ## Yoda image in black and white after single thresholding
 
-![App Screenshot](https://github.com/Simon125q/image_processing/blob/main/images/single_thresholding_yoda.jpeg)
+![App Screenshot](https://github.com/Simon125q/image_processing/blob/main/images/single_thresholding.jpeg)
 
 ## Yoda image in black and white after double thresholding
 
-![App Screenshot](https://github.com/Simon125q/image_processing/blob/main/images/double_thresholding_yoda.jpeg)
+![App Screenshot](https://github.com/Simon125q/image_processing/blob/main/images/double_thresholding.jpeg)
 
 ## Grayscale Yoda after enhanced contrast using histogram equalization
 
